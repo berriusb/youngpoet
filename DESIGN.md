@@ -1,3 +1,5 @@
+<!--
+
 # Design System Inspired by Spotify
 
 ## 1. Visual Theme & Atmosphere
@@ -244,3 +246,5 @@ What distinguishes Spotify is its pill-and-circle geometry. Primary buttons use 
 4. Uppercase + wide tracking on buttons — the systematic label voice
 5. Heavy shadows (0.3–0.5 opacity) for elevation — light shadows are invisible on dark
 6. Album art provides all the color — the UI stays achromatic
+
+-->
